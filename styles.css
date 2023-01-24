@@ -17,6 +17,7 @@ article {
 	margin: auto;
 	padding: 1.25rem;
 	border-radius: 0.625rem;
+	max-width: 800px;
 }
 
 h1 {
